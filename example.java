@@ -8,7 +8,6 @@ public class HelloWorld {
         System.out.print("Enter a number: ");
 
         int number = reader.nextInt();
-t screen
         System.out.println("You entered: " + number);
     }
 }
